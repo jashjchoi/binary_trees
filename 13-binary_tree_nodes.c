@@ -2,7 +2,7 @@
 /**
 * binary_tree_nodes - counts the nodes with at least 1 child in BT
 * @tree: ptr to the root node of BT to count the number of nodes
-* Return: numbers of leave. If tree is NULL, return 0
+* Return: number of nodes. If tree is NULL, return 0
 */
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {
